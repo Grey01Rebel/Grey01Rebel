@@ -1,4 +1,4 @@
-# 👋 Hello! I’m @Grey01Rebel
+# 👋 Hello! I’m Nkemjika A.K.A @Grey01Rebel
 
 I’m a passionate developer and tech enthusiast with a keen focus on **web development**, **cybersecurity**, and enhancing **customer experiences** through technology. I thrive on learning new skills and tackling challenges that push me to grow.
 
